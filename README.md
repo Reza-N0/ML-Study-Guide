@@ -13,6 +13,14 @@ Learn some math basics! Focus only on these topics, then come back later in case
  * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
  * [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
  * [Optional: 3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
+ * Statistics and Probability: برای یادگیری تحلیل داده و یادگیری ماشین.
+ * Linear Algebra: برای کار با داده‌های چندبعدی و محاسبات ماتریسی.
+ * Algebra Basics: برای تقویت پایه‌های ریاضی.
+ * Differential Calculus و Integral Calculus: برای بهینه‌سازی مدل‌ها و فهم تغییرات.
+ * AP®/College Statistics: برای درک عمیق‌تر از تحلیل داده.
+---------------------------------
+ * Entrepreneurship: برای یادگیری راه‌اندازی کسب‌وکار.
+ * Personal Finance: برای مدیریت مالی.
  
 ## 2. Learn Python
 
